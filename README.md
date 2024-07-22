@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python and SQL with help from https://stepik.org/org/pygen
+- 🌱 I’m currently learning Python and SQL with help from https://stepik.org/users/625985438/profile
 <!--
 **KseniiaNorkova/KseniiaNorkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
