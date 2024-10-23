@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python and SQL with help from [Stepic, PyGen](https://stepik.org/org/pygen)
+- 🌱 I’m currently working in Ozon Tech (Golang)
 <!--
 **KseniiaNorkova/KseniiaNorkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
